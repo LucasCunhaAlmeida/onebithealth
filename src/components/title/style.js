@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
         padding: 15,
     },
     textTitle: {
-        fontSize: 24,
+        fontSize: 25,
         color: '#FF0043',
         fontWeight: 'bold',
         textTransform: 'uppercase',
